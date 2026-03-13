@@ -2,11 +2,6 @@
 
 I'm a student dev who started coding when I was 12. I spend most of my time building projects, finding cool stuff, and figuring out how to bypass Chromebook restrictions. 
 
-### 🛠️ What I'm Up To
-* **Web Dev:** I love building clean sites with HTML, CSS, and JS.
-* **Security:** I'm always looking for ways to bypass filters and keep things secure.
-* **Aesthetic:** Everything I make usually has a Glassmorphism look and a Snoopy theme.
-
 ### 💻 Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
