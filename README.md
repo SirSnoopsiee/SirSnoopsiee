@@ -1,16 +1,17 @@
-## Hi there 👋
+🚀 Hey, I'm Sirsnoopy
+I'm a student dev who started coding when I was 12. I spend most of my time building projects, finding cool stuff, and figuring out how to bypass chromebooks.
 
-<!--
-**SirSnoopsiee/SirSnoopsiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ What I'm Up To
+Web Dev: I love building clean sites with HTML, CSS, and JS.
 
-Here are some ideas to get you started:
+Security: I'm always looking for ways to bypass filters and keep things secure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aesthetic: Everything I make usually has a Glassmorphism look and a Snoopy theme.
+
+🐾 Fun Fact
+I really like Snoopy :O
+
+📬 Get In Touch
+Contact Me: [sirsnoopy.pages.dev/contact](url)
+
+Socials: All my links are listed on sirsnoopy.pages.dev
