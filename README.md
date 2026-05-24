@@ -24,6 +24,8 @@ I'm a student dev who started coding when I was 12. I spend most of my time buil
 ### 🐾 Fun Fact
 * I really like Snoopy :O
 
+<img src="https://sirsnoopy.pages.dev/snoopyreading.jpg" alt="Snoopy Reading" width="200" />
+
 ---
 
 ### 📬 Get In Touch
@@ -31,4 +33,8 @@ I'm a student dev who started coding when I was 12. I spend most of my time buil
 * 🌐 **Socials:** All my links are listed on [sirsnoopy.pages.dev](https://sirsnoopy.pages.dev/)
 * ✉️ **Contact Me:** [sirsnoopy.pages.dev/contact](https://sirsnoopy.pages.dev/contact)
 
-> ⚠️ **Cyberbullying is a crime.** > Please be respectful. Hate, spam, harassment, and cyberbullying are not okay. Report it here: [stopbullying.gov](https://www.stopbullying.gov/).
+<div style="padding: 15px; border-left: 5px solid #ff4d4d; background-color: rgba(255, 77, 77, 0.1); color: #ff4d4d; border-radius: 4px; margin-top: 15px;">
+  <strong>⚠️ Cyberbullying is a crime.</strong><br>
+  Please be respectful. Hate, spam, harassment, and cyberbullying are not okay. Report it here: <a href="https://www.stopbullying.gov/" style="color: #ff4d4d; text-decoration: underline;">stopbullying.gov</a>. <br>
+  <span style="font-style: italic; opacity: 0.8;">Tho this one I framed because its funny.</span>
+</div>
