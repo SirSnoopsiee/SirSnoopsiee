@@ -19,12 +19,13 @@ I'm a student dev who started coding when I was 12. I spend most of my time buil
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SirSnoopsiee&theme=tokyonight&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakNum=ffffff&sideLabels=ffffff&bg_color=0b1220" alt="Sirsnoopy's Streak" height="150" />
 </p>
 
+
 ---
 
 ### 🐾 Fun Fact
 * I really like Snoopy :O
 
-<img src="https://sirsnoopy.pages.dev/snoopyreading.jpg" alt="Snoopy Reading" width="200" />
+<img src="https://sirsnoopy.pages.dev/snoopyreading.jpg" alt="Snoopy Reading" width="350" style="border-radius: 10px; margin-top: 10px;" />
 
 ---
 
@@ -38,4 +39,4 @@ I'm a student dev who started coding when I was 12. I spend most of my time buil
   Please be respectful. Hate, spam, harassment, and cyberbullying are not okay. Report it here: <a href="https://www.stopbullying.gov/" style="color: #ff4d4d; text-decoration: underline;">stopbullying.gov</a>. <br>
   <span style="font-style: italic; opacity: 0.8;">Tho this one I framed because its funny.</span>
 </div>
-<img src="https://sirsnoopy.pages.dev/Screenshot%202026-05-23%20182243.png" alt="Funny" width="200" />
+<img src="https://sirsnoopy.pages.dev/Screenshot%202026-05-23%20182243.png" alt="Screenshot" width="350" style="border-radius: 10px; margin-top: 10px;" />
