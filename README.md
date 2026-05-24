@@ -38,3 +38,4 @@ I'm a student dev who started coding when I was 12. I spend most of my time buil
   Please be respectful. Hate, spam, harassment, and cyberbullying are not okay. Report it here: <a href="https://www.stopbullying.gov/" style="color: #ff4d4d; text-decoration: underline;">stopbullying.gov</a>. <br>
   <span style="font-style: italic; opacity: 0.8;">Tho this one I framed because its funny.</span>
 </div>
+<img src="https://sirsnoopy.pages.dev/Screenshot%202026-05-23%20182243.png" alt="Funny" width="200" />
