@@ -2,8 +2,12 @@
 
 I'm a student dev who started coding when I was 12. I spend most of my time building projects, finding cool stuff, and figuring out how to bypass Chromebook restrictions. 
 
+---
+
 ### 💻 Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+---
 
 ### 📊 My GitHub Stats
 <p align="left">
@@ -12,12 +16,19 @@ I'm a student dev who started coding when I was 12. I spend most of my time buil
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SirSnoopsiee&theme=tokyonight&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakNum=ffffff&sideLabels=ffffff&bg_color=0b1220" alt="Sirsnoopy's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SirSnoopsiee&theme=tokyonight&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakNum=ffffff&sideLabels=ffffff&bg_color=0b1220" alt="Sirsnoopy's Streak" height="150" />
 </p>
+
+---
 
 ### 🐾 Fun Fact
 * I really like Snoopy :O
 
+---
+
 ### 📬 Get In Touch
-* **Contact Me:** [sirsnoopy.pages.dev/contact](https://sirsnoopy.pages.dev/contact)
-* **Socials:** All my links are listed on [sirsnoopy.pages.dev](https://sirsnoopy.pages.dev/)
+
+* 🌐 **Socials:** All my links are listed on [sirsnoopy.pages.dev](https://sirsnoopy.pages.dev/)
+* ✉️ **Contact Me:** [sirsnoopy.pages.dev/contact](https://sirsnoopy.pages.dev/contact)
+
+> ⚠️ **Cyberbullying is a crime.** > Please be respectful. Hate, spam, harassment, and cyberbullying are not okay. Report it here: [stopbullying.gov](https://www.stopbullying.gov/). *Tho this one I framed because its funny.*
