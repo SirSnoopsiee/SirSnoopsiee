@@ -31,4 +31,4 @@ I'm a student dev who started coding when I was 12. I spend most of my time buil
 * 🌐 **Socials:** All my links are listed on [sirsnoopy.pages.dev](https://sirsnoopy.pages.dev/)
 * ✉️ **Contact Me:** [sirsnoopy.pages.dev/contact](https://sirsnoopy.pages.dev/contact)
 
-> ⚠️ **Cyberbullying is a crime.** > Please be respectful. Hate, spam, harassment, and cyberbullying are not okay. Report it here: [stopbullying.gov](https://www.stopbullying.gov/). *Tho this one I framed because its funny.*
+> ⚠️ **Cyberbullying is a crime.** > Please be respectful. Hate, spam, harassment, and cyberbullying are not okay. Report it here: [stopbullying.gov](https://www.stopbullying.gov/).
